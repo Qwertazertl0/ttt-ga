@@ -1,0 +1,1 @@
+	Welcome to Tic-Tac-Toe! This program tries to teach a population of random-value neural nets to not lose at tic-tac-toe using an evolutionary algorithm, which imitates Darwinian evolution. (Using a complete search or minimax algorithm would be trivial and not fun). Currently the algorithm is set up, but yields poor results. Several UI features have yet to be implemented.
